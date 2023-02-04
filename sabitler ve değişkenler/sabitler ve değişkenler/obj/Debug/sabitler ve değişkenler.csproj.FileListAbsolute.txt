@@ -1,0 +1,7 @@
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\sabitler ve değişkenler\sabitler ve değişkenler\obj\Debug\sabitler ve değişkenler.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\sabitler ve değişkenler\sabitler ve değişkenler\obj\Debug\sabitler ve değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\sabitler ve değişkenler\sabitler ve değişkenler\bin\Debug\sabitler ve değişkenler.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\sabitler ve değişkenler\sabitler ve değişkenler\bin\Debug\sabitler ve değişkenler.exe
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\sabitler ve değişkenler\sabitler ve değişkenler\bin\Debug\sabitler ve değişkenler.pdb
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\sabitler ve değişkenler\sabitler ve değişkenler\obj\Debug\sabitler ve değişkenler.exe
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\sabitler ve değişkenler\sabitler ve değişkenler\obj\Debug\sabitler ve değişkenler.pdb

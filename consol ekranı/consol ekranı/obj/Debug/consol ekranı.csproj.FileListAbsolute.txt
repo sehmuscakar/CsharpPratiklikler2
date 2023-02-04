@@ -1,0 +1,7 @@
+C:\Users\scaka\OneDrive\Masaüstü\c# DİLİ\consol ekranı\consol ekranı\bin\Debug\consol ekranı.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\c# DİLİ\consol ekranı\consol ekranı\bin\Debug\consol ekranı.exe
+C:\Users\scaka\OneDrive\Masaüstü\c# DİLİ\consol ekranı\consol ekranı\bin\Debug\consol ekranı.pdb
+C:\Users\scaka\OneDrive\Masaüstü\c# DİLİ\consol ekranı\consol ekranı\obj\Debug\consol ekranı.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\c# DİLİ\consol ekranı\consol ekranı\obj\Debug\consol ekranı.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\c# DİLİ\consol ekranı\consol ekranı\obj\Debug\consol ekranı.exe
+C:\Users\scaka\OneDrive\Masaüstü\c# DİLİ\consol ekranı\consol ekranı\obj\Debug\consol ekranı.pdb

@@ -1,0 +1,14 @@
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\bin\Debug\formlar ve kontroler.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\bin\Debug\formlar ve kontroler.exe
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\bin\Debug\formlar ve kontroler.pdb
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar ve kontroler.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar_ve_kontroler.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar_ve_kontroler.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar ve kontroler.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar ve kontroler.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar ve kontroler.exe
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar ve kontroler.pdb
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar_ve_kontroler.formlar.resources
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar_ve_kontroler.kontrolerin_yerleşimi_ve_düzeni.resources
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar_ve_kontroler.Form2.resources
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\formlar ve kontroler\formlar ve kontroler\obj\Debug\formlar_ve_kontroler.formlar_arası_geçiş.resources

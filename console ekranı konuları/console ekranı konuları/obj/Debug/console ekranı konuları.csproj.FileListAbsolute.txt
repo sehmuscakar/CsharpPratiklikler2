@@ -1,0 +1,7 @@
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\console ekranı konuları\console ekranı konuları\bin\Debug\console ekranı konuları.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\console ekranı konuları\console ekranı konuları\bin\Debug\console ekranı konuları.exe
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\console ekranı konuları\console ekranı konuları\bin\Debug\console ekranı konuları.pdb
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\console ekranı konuları\console ekranı konuları\obj\Debug\console ekranı konuları.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\console ekranı konuları\console ekranı konuları\obj\Debug\console ekranı konuları.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\console ekranı konuları\console ekranı konuları\obj\Debug\console ekranı konuları.exe
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\console ekranı konuları\console ekranı konuları\obj\Debug\console ekranı konuları.pdb
